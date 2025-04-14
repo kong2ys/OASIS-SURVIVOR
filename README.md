@@ -24,7 +24,7 @@
 ![Normal Stage](https://github.com/dreamer603/Narsha-project/blob/main/OasisSurvivor_Normal.png)
 - **탐색**: 광활한 맵에서 자원 수집 및 적 생성 구역 탐험
 - **스킬 선택**: 레벨업 시 3개의 랜덤 스킬 중 선택 (최대 6개 조합 가능)
-  ![Skill Selection](https://github.com/dreamer603/Narsha-project/blob/main/OasisSurvivor_Skills.png)
+![Skill Selection](https://github.com/dreamer603/Narsha-project/blob/main/OasisSurvivor_Skills.png)
 
 ### 보스 스테이지 (1인칭 소울라이크)
 ![Boss Stage](https://github.com/dreamer603/Narsha-project/blob/main/OasisSurvivor_Boss.png)
